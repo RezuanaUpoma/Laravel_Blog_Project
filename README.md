@@ -71,9 +71,4 @@ Through this project, I strengthened my skills in:
 ---
 
 
----
 
-👉 This style is **perfect for showcase** because it highlights **skills + features + screenshots space + links to your profile**.  
-
-Do you want me to also design a **short project description (2–3 lines)** you can reuse on LinkedIn/GitHub profile/portfolio cards?
-```
